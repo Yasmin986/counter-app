@@ -7,4 +7,4 @@
 *** 
 
 > Tech Used - 
->>HTMl, CSS , ES6, React ,React Hooks
+>> HTML, CSS , ES6, React ,React Hooks
